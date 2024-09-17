@@ -1,0 +1,29 @@
+a)
+A lógica aqui é somar 2 ao número anterior.
+Portanto, o próximo elemento é 7 + 2 = 9.
+Resposta: 9
+
+b)
+A lógica aqui é multiplicar o número anterior por 2.
+Portanto, o próximo elemento é 64 * 2 = 128.
+Resposta: 128
+
+c)
+A lógica aqui é elevar ao quadrado seguindo a ordem dos números naturais (contando o zero).
+Portanto, o próximo elemento é 7^2 = 49.
+Resposta: 49
+
+d)
+A lógica aqui é elevar ao quadrado seguindo a ordem dos números naturais pares (não contando o zero).
+Portanto, o próximo elemento é 10^2 = 100.
+Resposta: 100
+
+e)
+A lógica aqui é seguir a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+O próximo número é 8 + 5 = 13.
+Resposta: 13
+
+f) 
+A lógica aqui é seguir a ordem dos números naturais que começam com a letra D.
+O próximo número é duzentos (200).
+Resposta: 200

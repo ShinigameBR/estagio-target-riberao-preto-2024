@@ -1,0 +1,20 @@
+Na primeira visita:
+  Primeiro, ligo um dos interruptores por alguns minutos e então o desligo.
+  Em seguida, ligo outro interruptor e me dirijo a uma das três salas.
+
+Na sala das lâmpadas:
+  Verifico a situação da lâmpada:
+    Se a lâmpada estiver acesa, ela está conectada ao interruptor que deixei ligado.
+    Se a lâmpada estiver apagada e ainda estiver quente, isso significa que ela está conectada ao interruptor que liguei anteriormente.
+    Se a lâmpada estiver apagada e fria, isso significa ela está conectada ao interruptor não foi acionado.
+
+Na segunda visita:
+  Já sabendo qual interruptor pertence a uma das lâmpadas, deixo outro interruptor ligado e desligo os outros dois.
+  Então, vou para outra sala das que não visitei.
+
+Na sala das lâmpadas:
+  Verifico a situação da lâmpada:
+    Se a lâmpada estiver acesa, ela está conectada ao interruptor que deixei ligado.
+    Se a lâmpada estiver apagada e fria, isso significa ela está conectada ao interruptor não foi acionado.
+
+Por fim o último interruptor estará ligado a lâmpada na sala que não visitei.
